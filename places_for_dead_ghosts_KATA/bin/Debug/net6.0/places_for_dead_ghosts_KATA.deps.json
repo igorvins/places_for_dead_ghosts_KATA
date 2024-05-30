@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "places_for_dead_ghosts_KATA/1.0.0": {
+        "runtime": {
+          "places_for_dead_ghosts_KATA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "places_for_dead_ghosts_KATA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

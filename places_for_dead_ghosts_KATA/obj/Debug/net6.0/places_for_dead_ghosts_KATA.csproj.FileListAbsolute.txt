@@ -1,0 +1,15 @@
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\bin\Debug\net6.0\places_for_dead_ghosts_KATA.exe
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\bin\Debug\net6.0\places_for_dead_ghosts_KATA.deps.json
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\bin\Debug\net6.0\places_for_dead_ghosts_KATA.runtimeconfig.json
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\bin\Debug\net6.0\places_for_dead_ghosts_KATA.dll
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\bin\Debug\net6.0\places_for_dead_ghosts_KATA.pdb
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.AssemblyInfoInputs.cache
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.AssemblyInfo.cs
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.csproj.CoreCompileInputs.cache
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.sourcelink.json
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.dll
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\refint\places_for_dead_ghosts_KATA.dll
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.pdb
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\places_for_dead_ghosts_KATA.genruntimeconfig.cache
+D:\HD IGOR\source\code_wars\places_for_dead_ghosts_KATA\places_for_dead_ghosts_KATA\obj\Debug\net6.0\ref\places_for_dead_ghosts_KATA.dll
