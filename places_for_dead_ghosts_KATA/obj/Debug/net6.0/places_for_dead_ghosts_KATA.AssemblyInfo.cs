@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("places_for_dead_ghosts_KATA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9df1cac2cd12ea45718810376982375a06c70c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967e20133e6dc6fff07a07f56ad5a6e7ddd816fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("places_for_dead_ghosts_KATA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("places_for_dead_ghosts_KATA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
